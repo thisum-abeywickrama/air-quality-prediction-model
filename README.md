@@ -146,8 +146,8 @@ A leak-free validation setup ensures unbiased performance estimation on time-dep
 This project was developed for **CO5420: Artificial Neural Networks and Deep Learning**, Department of Computer Engineering, Faculty of Engineering, **University of Peradeniya**.
 
 ### Project Team
-* **E/22/001** — H.M.H.N. Aberathna
-* **E/22/008** — T.H. Abeywickrama
-* **E/22/027** — M.A.N.P. Anawarathne
-* **E/22/130** — S.H.S. Hansara
-* **E/22/362** — W.A.H. Sathsarani
+* **E/22/001** — H. M. H. N. Aberathna
+* **E/22/008** — T. H. Abeywickrama
+* **E/22/027** — M. A. N. P. Anawarathne
+* **E/22/130** — S. H. S. Hansara
+* **E/22/362** — W. A. H. Sathsarani
