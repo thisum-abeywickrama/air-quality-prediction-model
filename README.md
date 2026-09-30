@@ -133,6 +133,7 @@ A leak-free validation setup ensures unbiased performance estimation on time-dep
 
 ## Repository Structure
 
+Note: Please edit file locations as needed when running this yourself.
 ```text
 ├── data/
 │   ├── train_raw.csv          # Multi-station historical training data
